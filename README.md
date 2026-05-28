@@ -1,6 +1,8 @@
 # CCNA Preparation labs from Jeremy IT Labs YouTube course
 
-This is the repo where I store and share all the labs I did from [this course](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ) as preparation for the CCNA exam. Some days' labs may be missing, it is because I either skipped the topic as I already knew it very well or I did a similar or the same lab already. Also you can get the incomplete lab files to try it out yourself over [here](https://drive.google.com/drive/folders/1PwK_jWqfUtOjV7gHt8ODutq9QA5cxCgi?usp=sharing)
+This is the repo where I store and share all the labs I did from [this course](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ) as preparation for the CCNA exam. Some days' labs may be missing, it is because I either skipped the topic as I already knew it very well or I did a similar or the same lab already.
+
+Also you can get the incomplete lab files to try it out yourself over [here](https://drive.google.com/drive/folders/1PwK_jWqfUtOjV7gHt8ODutq9QA5cxCgi?usp=sharing).
 
 ## Repo Structure
 
